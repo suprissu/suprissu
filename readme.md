@@ -41,15 +41,15 @@ src="https://img.shields.io/github/followers/butterchoco?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/butterchoco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/supri.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmadsupriyanto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/suprissu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/supri.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmadsupriyanto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/butterchoco"><img src="https://github-readme-stats.vercel.app/api?username=butterchoco&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="butterchoco's GitHub stats" /></a>
+<a href="http://www.github.com/suprissu"><img src="https://github-readme-stats.vercel.app/api?username=suprissu&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="suprissu's GitHub stats" /></a>
 
-<a href="http://www.github.com/butterchoco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=butterchoco&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/suprissu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suprissu&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
