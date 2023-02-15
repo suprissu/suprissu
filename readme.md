@@ -14,8 +14,8 @@ I have 2 years experience in learning frontend development. I've used many tech 
 * 🤝  I'm open to collaborating on 3D web project, innovative apps
 * ⚡  I will work hard until I can buy everything without looking at its price.
 
-<a href="https://www.github.com/butterchoco" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/butterchoco?logo=github&style=for-the-badge&color=64748b&labelColor=1c1917" /></a>
+<a href="https://www.github.com/suprissu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/suprissu?logo=github&style=for-the-badge&color=64748b&labelColor=1c1917" /></a>
 
 ### Skills
 
